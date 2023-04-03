@@ -43,4 +43,4 @@ In MDPI 2023.<br>
 
 ## Acknowledgments
 
-Code borrows heavily from [Neural Network OCR](https://www.codeproject.com/Articles/11285/Neural-Network-OCR) and [Perceptual Loss]. Thanks for the sharing.
+Code borrows heavily from [Neural Network OCR](https://www.codeproject.com/Articles/11285/Neural-Network-OCR). Thanks for the sharing.
