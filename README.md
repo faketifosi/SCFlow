@@ -1,6 +1,6 @@
 # SCFlow
 
-This repository provides the <b>OCR</b>(C++) & <b>SCR</b>(MATLAB) implementation for the following paper:
+This repository provides the <b>OCR</b>(C++) & <b>SCD</b>(MATLAB) implementation for the following paper:
 
 **Structured Cluster Detection from Local Feature Learning for Text Region Extraction**<br>
 [Huei-Yung Lin](https://vision.ee.ccu.edu.tw/hueiyung/) and [Chin-Yu Hsu](mailto:chinyu.hsu@gmail.com)
